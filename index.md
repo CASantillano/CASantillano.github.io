@@ -1,10 +1,11 @@
+# CASantillano.github.io
 # Hello World
 
 This is my home page! My name is Cassandra Santillano and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Project
 
-My Github page is https://CASantillano.github.io/
+My Github page is https://github.com/CASantillano.
 
 ### CPSC 120
 
