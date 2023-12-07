@@ -4,7 +4,7 @@ This is my home page! My name is Cassandra Santillano and I am a student at [Cal
 
 ## Computer Science Project
 
-My Github page is https://github.com/CASantillano.
+My Github page is https://CASantillano.github.io.
 
 ### CPSC 120
 
