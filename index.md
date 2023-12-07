@@ -5,7 +5,7 @@ This is my home page! My name is Cassandra Santillano and I am a student at[Cal 
 ## Computer Science Projects
 
 <<<<<<< HEAD
-My Github page is [https://CASantillano.github.io](https://github.com/CASantillano/CASantillano.github.io/tree/main)
+My Github page is [https://CASantillano.github.io/](https://github.com/CASantillano/CASantillano.github.io/tree/main)
 =======
 My Github page is http://CASantillano.github.io
 >>>>>>> 2d2019c7b1651e4890832de5d4cdaf44318414d9
